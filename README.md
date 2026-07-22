@@ -16,7 +16,9 @@ A lightweight, efficient, and productivity-focused farm tracker for **Path of Ex
 * **⚙️ Adjustable Layout**: Options for resizing (S, M, L), vertical/horizontal orientation, and opacity control.
 
 ---
+<img width="367" height="584" alt="image" src="https://github.com/user-attachments/assets/50089cf8-c6d8-4b82-95f6-a7b970597404" />
 
+---
 ## 🚀 How to Use
 
 1. Download the main project file (`.html`).
